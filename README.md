@@ -45,6 +45,8 @@ bonus)
 ### FINAL RESULTS AND FINDINGS
  - Plamoria does not meet the requirements to pay $90000
  - This have all been shown in the dashboard below
+
+   
    
 
 

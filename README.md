@@ -47,6 +47,9 @@ bonus)
  - This have all been shown in the dashboard below
 
    
+
    
+   [palmoria visualization.zip](https://github.com/user-attachments/files/21060574/palmoria.visualization.zip)
+
 
 
